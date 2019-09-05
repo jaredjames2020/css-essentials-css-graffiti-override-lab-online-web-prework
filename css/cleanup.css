@@ -19,4 +19,6 @@ body #wall #tag-2{
   display: none;
 }
 
-class[slick wicked
+div[class="slick wicked"]{
+  display: none;
+}
