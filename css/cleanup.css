@@ -7,6 +7,10 @@ body #wall #tag-2{
   display: none;
 }
 
+#tag-3{
+  display: none;
+}
+
 .parent {
   display: none;
 }
@@ -14,6 +18,3 @@ body #wall #tag-2{
 .class{
   display: none;
 }
-
-
-
